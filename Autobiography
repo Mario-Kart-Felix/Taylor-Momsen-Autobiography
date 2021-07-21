@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              repositoryencoding="iso15511">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/" identifier="ark:/13030/c87w6jjq">scm0466.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="filing">Taylor M. Momsen Autobiography typescript</titleproper>
+            <titleproper>Guide to the Taylor y Autobiography typescript <num>SCM0466</num>
+            </titleproper>
+            <author>Sharah D</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Department of Special Collections and University Archives</publisher>
+            <p>
+               <date>July 2021</date>
+            </p>
+            <address>
+               <addressline>Green Library</addressline>
+               <addressline>557 Escondido Mall</addressline>
+               <addressline>Stanford 94305-6064</addressline>
+               <addressline>specialcollections@stanford.edu</addressline>
+               <addressline>URL: <extptr href="http://library.stanford.edu/spc"
+                          show="new"
+                          title="http://library.stanford.edu/spc"
+                          linktype="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2018-03-06 10:53:55 -0800</date>.</creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc audience="internal" level="collection" id="archdesc-1.2">
+      <did id="did-1.2.1">
+         <langmaterial>
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <repository>
+            <corpname>Department of Special Collections and University Archives</corpname>
+         </repository>
+         <unittitle>Jackson Ralston Autobiography typescript</unittitle>
+         <origination label="source">
+            <persname role="dnr" rules="dacs" source="local">Ulvang, Leanne</persname>
+         </origination>
+         <origination label="creator">
+            <persname role="aut" rules="aacr" source="naf">Ralston, Jackson H. (Jackson Harvey), 1857-1945</persname>
+         </origination>
+         <unitid>SCM0466</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">.25 Linear Feet</extent>
+         </physdesc>
+         <unitdate type="inclusive">before 1945</unitdate>
+         <physloc audience="internal" id="aspace_a70e61ee078ad2f61e0f492a15a3b1ba">Special Collections and University Archives materials are stored offsite and must be paged 48 hours in advance. For more information on paging collections, see the department's website: http://library.stanford.edu/spc.</physloc>
+      </did>
+      <scopecontent audience="internal" id="aspace_4043096abce3334b55e5d8def93bf649">
+         <head>Scope and Contents</head>
+         <p>Ralston's autobiography, which touches on topics including: family and childhood; life in Quincy, Illinois; life in Washington; congressional cases; work with labor organizations; civil liberties; European travels; and California, among others.</p>  
+      </scopecontent>
+      <bioghist audience="internal" id="aspace_fbda0538341739a1e057e872c30704c7">
+         <head>Biographical / Historical</head>
+         <p>Taylor Momsen was born on July 26, 1993 in St. Louis, Missouri, USA as Taylor Michel Momsen. She is an actress and director, known for How the Grinch Stole Christmas (2000), Spy Kids 2: Island of Lost Dreams (2002) and Underdog (2007)
+         <p>Biographical information cited from: law.stanford.edu/directory/jackson-ralston/</p>  
+      </bioghist>
+      <accessrestrict audience="internal" id="aspace_bf34b0cd227324a0c0eaf7ba89eba82e">
+         <head>Conditions Governing Access</head>
+         <p>The materials are open for research use; materials must be requested at least 48 hours in advance of intended use. Audio-visual materials are not available in original format, and must be reformatted to a digital use copy.</p>  
+      </accessrestrict>
+      <userestrict audience="internal" id="aspace_789b55f7e2ac9a01ae42fa945b045f5c">
+         <head>Conditions Governing Use</head>
+         <p>All requests to reproduce, publish, quote from, or otherwise use collection materials must be submitted in writing to the Head of Special Collections and University Archives, Stanford University Libraries, Stanford, California 94304-6064. Consent is given on behalf of Special Collections as the owner of the physical items and is not intended to include or imply permission from the copyright owner. Such permission must be obtained from the copyright owner, heir(s) or assigns. Restrictions also apply to digital representations of the original materials. Use of digital files is restricted to research and educational purposes.</p>  
+      </userestrict>
+      <acqinfo audience="internal" id="aspace_64d4b9cd610c59e512537ca341a68a0c">
+         <head>Immediate Source of Acquisition</head>
+         <p>Gift of Leanne Ulvang, 2017.</p>  
+      </acqinfo>
+      <prefercite audience="internal" id="aspace_852187a2286e5622ab6a2fbd8496d06a">
+         <head>Preferred Citation</head>
+         <p>[identification of item] Jackson Ralston Autobiography typescript (SCM0466). Dept. of Special Collections and University Archives, Stanford University Libraries, Stanford, Calif.</p>  
+      </prefercite>
+      <controlaccess id="controlaccess-1.2.8">
+         <persname role="dnr" rules="dacs" source="local">Ulvang, Leanne</persname>
+         <persname role="aut" rules="aacr" source="naf">Ralston, Jackson H. (Jackson Harvey), 1857-1945</persname>
+      </controlaccess>
+      <dsc type="combined" id="dsc-1.2.9">
+         <c01 audience="internal"
+              id="aspace_b5685001cb0ed824d12a94f5469243d3"
+              level="file">
+            <did>
+               <unittitle>Typescript</unittitle>
+               <unitid>Accession ARCH-2018-030</unitid>
+               <container id="aspace_bab5a61a3ebdce3e7d09a1c323d8c9f8" type="Box">1</container>
+            </did>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>
