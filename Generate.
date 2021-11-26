@@ -18,8 +18,8 @@ import org.xapagy.debug.storygenerator.RsTestingUnit;
 import org.xapagy.ui.TextUi;
 
 /**
- * @author Ladislau Boloni
- * Created on: Feb 5, 2012
+ * 
+ * 
  */
 public class testDaShmViMatchingHead {
 
